@@ -51,4 +51,4 @@ have an account there, and I'll update the bugs and such accordingly.
 
 ### Screenshot
 
-![fast and loost](https://github.com/theinternetftw/xkcd2601/raw/main/screens/fnl.png)
+![fast and loose](https://github.com/theinternetftw/xkcd2601/raw/main/screens/fnl1.png)
