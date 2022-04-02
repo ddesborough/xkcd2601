@@ -7,6 +7,9 @@
 Adapted from Pgn674's machine speech-to-text transcript.
 
 (Note: it was run in Berkeley LOGO aka `ucblogo`)
+(Further notes: the typos should be easy to spot - in general points should be roughly in a line.)
+(The parameters to `CUBIC` are basically `X1 Y1 X2 Y2 X3 Y3`)
+(So if you have `400 ??? 600 ??? 800 ???` that's ok. if you have `400 ??? -6 ??? 800` that's probably a typo.)
 
 This is a project to transcribe xkcd #2601, the April Fools post for 2022, to runnable logo code.
 
