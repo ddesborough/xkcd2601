@@ -13,6 +13,8 @@ Adapted from Pgn674's machine speech-to-text transcript.
 
 This is a project to transcribe xkcd #2601, the April Fools post for 2022, to runnable logo code.
 
+**End disclaimer.** Below is the original README:
+
 ### Running the code:
 
 It runs in FMSLogo, which is windows only, sadly. But it might run on your
