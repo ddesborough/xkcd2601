@@ -4,6 +4,8 @@
 
 **Disclaimer:** This code has a ton of typos. It should be used only as a reference.
 
+Adapted from Pgn674's machine speech-to-text transcript.
+
 (Note: it was run in Berkeley LOGO aka `ucblogo`)
 
 This is a project to transcribe xkcd #2601, the April Fools post for 2022, to runnable logo code.
