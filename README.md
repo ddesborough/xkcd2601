@@ -1,5 +1,11 @@
 # xkcd2601
 
+## fast'n'loose edition
+
+**Disclaimer:** This code has a ton of typos. It should be used only as a reference.
+
+(Note: it was run in Berkeley LOGO aka `ucblogo`)
+
 This is a project to transcribe xkcd #2601, the April Fools post for 2022, to runnable logo code.
 
 ### Running the code:
@@ -43,6 +49,6 @@ Try to run your code before submitting by sticking it at the end of what we alre
 If you don't have a github account and want to help, you can message me on reddit if you
 have an account there, and I'll update the bugs and such accordingly.
 
-### First 60 minutes of transcription:
+### Screenshot
 
-![first 60 minutes](https://github.com/theinternetftw/xkcd2601/raw/main/screens/first-60-minutes.png)
+![fast and loost](https://github.com/theinternetftw/xkcd2601/raw/main/screens/fnl.png)
